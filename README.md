@@ -1,5 +1,13 @@
-- 👋 Hi, I’m @n0nm3 a student in cybersecurity.
-- 
+👋 Hi, I’m n0nm3 a cybersecurity student and aspiring pentester.
+May not as proficient as i want but still try and yearn to be.
+
+Language:
+- Python - Medium(learning ongoing).
+- Bash - Medium(learning ongoing).
+- Php - Fundamental.
+- C++ - Fundamental.
+- Go - Fundamental
+
 
 <!---
 n0nm3/n0nm3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
