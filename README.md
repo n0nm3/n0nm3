@@ -6,6 +6,7 @@ Language:
 - Bash - Medium(learning ongoing).
 - Php - Fundamental.
 - C++ - Fundamental.
+- js - Fundament.
 - Go - Fundamental
 
 
