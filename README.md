@@ -3,11 +3,7 @@ May not as proficient as i want but still try and yearn to be.
 
 Language:
 - Python - Medium.
-- Bash - Medium.
 - rust - Good
-- Php - Fundamental.
-- C++ - Fundamental.
-- js - Fundamental.
 - Go - Fundamental
 
 
